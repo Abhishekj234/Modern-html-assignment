@@ -1,0 +1,17 @@
+HTML entities are special codes used in HTML documents to represent characters that have a special meaning in HTML or characters that are not easily typed on a keyboard. They are typically used to display characters like reserved symbols, special characters, or characters with specific formatting needs correctly within a web page. Here are five commonly used HTML entities:
+
+1. &lt - Represents the less-than sign (<).
+   - Example: `<p>This is &lt;strong&gt;important&lt;/strong&gt;.</p>`
+
+2. &gt - Represents the greater-than sign (>).
+   - Example: `<a href="example.com">Visit our website &gt;&gt;</a>`
+
+3. &amp - Represents the ampersand (&) itself.
+   - Example: `AT&amp;T is a telecommunications company.`
+
+4. &quot - Represents a double quotation mark.
+   - Example: `<a href="example.com" title="Click &quot;here&quot; to visit the site.">Visit</a>`
+
+5. &copy - Represents the copyright symbol.
+   - Example: `<p>&copy; 2023 My Company. All rights reserved.</p>`
+

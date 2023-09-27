@@ -1,0 +1,11 @@
+
+
+1. Semantic HTML Elements: Use semantic HTML elements to provide clear and meaningful structure to your content. Semantic elements like `<header>`, `<nav>`, `<article>`, `<section>`, and `<footer>` convey the intended purpose of the content, making it easier for screen readers and other assistive technologies to interpret and convey information accurately. Semantic elements also improve the overall organization and readability of your HTML.
+
+2. Alternative Text for Images: Always include descriptive alternative text (alt text) for images using the `alt` attribute. Alt text provides a text-based description of the image content, which is crucial for users with visual impairments who rely on screen readers. Additionally, alt text helps in cases where images fail to load or when users are using text-only browsers.
+
+
+
+3. Aria Attributes: Use ARIA (Accessible Rich Internet Applications) attributes to enhance the accessibility of dynamic and interactive content, especially when working with JavaScript or complex web applications. ARIA attributes provide additional information to assistive technologies, making it easier for users with disabilities to understand and interact with web content.
+
+
